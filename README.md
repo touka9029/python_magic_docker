@@ -5,7 +5,7 @@ docker run
 docker-compose up -d --build
 ```
 
-test python
+test python-magic
 ```
 docker exec -it python_magic sh
 python3
